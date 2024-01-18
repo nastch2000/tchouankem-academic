@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Hugues Tchouankem
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Hugues Tchouankem
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Hugues
+last_name: Tchouankem
 
 # Status emoji
 status:
@@ -17,34 +17,36 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor for Distributed Systems | Senior Research Scientist Mobile Communication
+
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Dortmund University of Applied Sciences and Arts
+    url: https://www.fh-dortmund.de/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed systems, mobile communication (5G/6G), vehicular communication (V2X, C-V2X) and IoT
 
 # Interests to show in About widget
 interests:
+  - Distributed Systems
+  - Computer Networks
+  - Mobile Communication
+  - Vehicular and Campus Networks
+  - Internet of Things (IoT)
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Autonomous Driving and Mobile Robotics
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD (Dr.-Ing.) in Electrical Engineering and Information Technology
+      institution: Leibniz University Hannover
+      year: 2016
+    - course: MSc (Dipl.-Ing.) in Electrical Engineering and Information Technology
+      institution: RWTH Aachen University
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +122,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hugues Tchouankem is a professor for Distributed Systems at Department of Information Technology at the University of Applied Sciences and Arts Dortmund, Germany. He also works as a senior research scientist and project leader in the corporate research and development department at Robert Bosch GmbH. Aside to his professional and academic activities, Hugues Tchouankem teached as a part-time lecturer at the Department of Business and Informatics at the Hannover University of Applied Sciences and Arts where he gave the course "Vehicular Communication (V2X)" for Bachelor and Master students. His research interests include distributed systems, computer networks, mobile and vehicular communication with a growing focus on artificial intelligence for mobile networks.
 {style="text-align: justify;"}
