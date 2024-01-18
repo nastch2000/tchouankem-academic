@@ -8,7 +8,7 @@ authors:
 - R. Sattiraju
 - O. D. Ramos-Cantor
 - D. Wieruch
-- H. Tchouankem
+- admin
 - F. Göttsch
 - P. Geuer
 - J. Schwardmann
@@ -19,5 +19,5 @@ date: '2021-04-01'
 publishDate: '2024-01-18T10:47:51.475820Z'
 publication_types:
 - paper-conference
-publication: '*IEEE Vehicular Technology Conference (VTC Spring 2021)*'
+publication: 'IEEE Vehicular Technology Conference (VTC Spring 2021)'
 ---
