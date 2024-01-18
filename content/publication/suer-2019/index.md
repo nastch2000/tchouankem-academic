@@ -4,7 +4,7 @@ title: Multi-Connectivity as an Enabler for Reliable Low Latency Communications 
 authors:
 - Marie-Theres Suer
 - Christoph Thein
-- űgues Tchouankem
+- admin
 - Lars Wolf
 date: '2019-00-01'
 publishDate: '2024-01-18T10:47:51.500905Z'
