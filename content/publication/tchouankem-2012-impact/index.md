@@ -2,7 +2,7 @@
 title: Impact of Vehicular Communication Performance on Travel Time Estimation in
   Urban Areas
 authors:
-- Hugues Tchouankem
+- admin
 - Daniel Schmidt
 - Henrik Schumacher
 date: '2012-09-01'

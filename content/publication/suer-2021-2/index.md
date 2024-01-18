@@ -4,7 +4,7 @@ title: Comparison of Multi-Connectivity Schemes on Different Layers for Reliable
 authors:
 - Marie-Theres Suer
 - Christoph Thein
-- Hugues Tchouankem
+- admin
 - Lars Wolf
 date: '2021-09-01'
 publishDate: '2024-01-18T10:47:51.463645Z'

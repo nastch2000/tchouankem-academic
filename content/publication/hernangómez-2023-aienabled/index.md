@@ -13,7 +13,7 @@ authors:
 - Martin Kasparick
 - Thomas Neugebauer
 - Oscar D. Ramos-Cantor
-- Hugues Tchouankem
+- admin
 - Jose Leon Calvo
 - Bo Chen
 - Gerhard Fettweis

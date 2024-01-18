@@ -4,7 +4,7 @@ title: Reliability and Latency Performance of Multi-Connectivity Scheduling Sche
 authors:
 - Marie-Theres Suer
 - Christoph Thein
-- Hugues Tchouankem
+- admin
 - Lars Wolf
 date: '2020-09-01'
 publishDate: '2024-01-18T10:47:51.482267Z'

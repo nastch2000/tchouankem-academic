@@ -2,7 +2,7 @@
 title: Correlation Analysis for the Prediction of QoS in V2V Networks
 authors:
 - Vishakha Shukla
-- Hugues Tchouankem
+- admin
 date: '2023-01-01'
 publishDate: '2024-01-18T10:47:51.415850Z'
 publication_types:

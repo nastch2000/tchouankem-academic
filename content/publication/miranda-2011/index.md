@@ -3,7 +3,7 @@ title: 'Return Path for Interactive TV using White Spaces: A Novel Application f
   802.22 WRAN'
 authors:
 - J. Paulo Miranda
-- Hugues Tchouankem
+- admin
 - Jacek Kibilda
 - Luiz A. DaSilva
 date: '2011-06-01'

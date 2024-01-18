@@ -4,7 +4,7 @@ title: Impact of Link Heterogeneity and Link Correlation on Multi-Connectivity S
 authors:
 - Marie-Theres Suer
 - Christoph Thein
-- Hugues Tchouankem
+- admin
 - Lars Wolf
 date: '2020-06-01'
 publishDate: '2024-01-18T10:47:51.488477Z'

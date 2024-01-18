@@ -2,7 +2,7 @@
 title: Characterization of Intersection Topologies in Urban Areas for Vehicle-to-Vehicle
   Communication
 authors:
-- Hugues Tchouankem
+- admin
 date: '2016-09-01'
 publishDate: '2024-01-18T10:47:51.507151Z'
 publication_types:

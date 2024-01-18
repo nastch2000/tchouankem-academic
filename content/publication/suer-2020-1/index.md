@@ -3,7 +3,7 @@ title: Evaluation of Multi-Connectivity Schemes for URLLC Traffic over WiFi and 
 authors:
 - Marie-Theres Suer
 - Christoph Thein
-- űgues Tchouankem
+- admin
 - Lars Wolf
 date: '2020-05-01'
 publishDate: '2024-01-18T10:47:51.494772Z'

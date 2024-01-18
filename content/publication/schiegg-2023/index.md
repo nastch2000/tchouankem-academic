@@ -4,7 +4,7 @@ authors:
 - Florian Schiegg
 - Anna-Lisa Rueeck
 - Jörg Gamerdinger
-- \textbfHugues Tchouankem
+- admin
 - Edmir Xhoxhi
 - Georg Volk
 date: '2023-09-01'

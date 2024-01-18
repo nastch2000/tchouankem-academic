@@ -1,7 +1,7 @@
 ---
 title: Impact of buildings on vehicle-to-vehicle communication at urban intersections
 authors:
-- Hugues Tchouankem
+- admin
 - Tetiana Zinchenko
 - Henrik Schumacher
 date: '2015-01-01'

@@ -2,7 +2,7 @@
 title: Highway Propagation Modeling in VANETS and its Impact on Performance Evaluation
 authors:
 - Henrik Schumacher
-- Hugues Tchouankem
+- admin
 date: '2013-02-01'
 publishDate: '2024-01-18T10:47:51.562931Z'
 publication_types:

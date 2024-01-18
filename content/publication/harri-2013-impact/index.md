@@ -2,7 +2,7 @@
 title: Impact of Vehicular Integration Effects on the Performance of DSRC Communications
 authors:
 - Jérôme Härri
-- Hugues Tchouankem
+- admin
 - Oliver Klemp
 - Oleksandr Demchenko
 date: '2013-04-01'

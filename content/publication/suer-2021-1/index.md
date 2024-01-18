@@ -3,7 +3,7 @@ title: Cascaded Scheduling Scheme for Massive Multi-Connectivity
 authors:
 - Marie-Theres Suer
 - Christoph Thein
-- Hugues Tchouankem
+- admin
 - Lars Wolf
 date: '2021-06-01'
 publishDate: '2024-01-18T10:47:51.469760Z'

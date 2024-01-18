@@ -2,7 +2,7 @@
 title: Vehicle-to-Vehicle IEEE 802.11p Performance Measurements at Urban Intersections
 authors:
 - Henrik Schumacher
-- Hugues Tchouankem
+- admin
 - Jörg Nuckelt
 - Thomas Kurner
 - Tetiana Zinchenko

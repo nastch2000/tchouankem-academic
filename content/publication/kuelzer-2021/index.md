@@ -8,7 +8,7 @@ authors:
 - Raja Sattiraju
 - Oscar D. Ramos-Cantor
 - Dennis Wieruch
-- Hugues Tchouankem
+- admin
 - Fabian Göttsch
 - Philipp Geuer
 - Jens Schwardmann

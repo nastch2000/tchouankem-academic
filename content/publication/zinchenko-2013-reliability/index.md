@@ -3,7 +3,7 @@ title: Reliability Analysis of Vehicle-to-Vehicle Applications based on Real Wor
   Measurements
 authors:
 - Tetiana Zinchenko
-- Hugues Tchouankem
+- admin
 - Lars Wolf
 - André Leschke
 date: '2013-06-01'

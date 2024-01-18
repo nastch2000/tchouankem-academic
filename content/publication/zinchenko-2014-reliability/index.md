@@ -2,7 +2,7 @@
 title: Reliability of Vehicle-to-Vehicle Communication at Urban Intersections
 authors:
 - Tetiana Zinchenko
-- Hugues Tchouankem
+- admin
 - Lars Wolf
 date: '2014-10-01'
 publishDate: '2024-01-18T10:47:51.537489Z'

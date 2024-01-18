@@ -2,7 +2,7 @@
 title: 'Removing Blind Spots: Infrastructure-assisted Collective Perception'
 authors:
 - Florian Schiegg
-- Hugues Tchouankem
+- admin
 - Ignacio Llaster Marti
 - Tobias Frye
 - Florian Wildschütte

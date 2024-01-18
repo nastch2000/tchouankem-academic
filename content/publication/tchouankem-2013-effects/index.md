@@ -1,7 +1,7 @@
 ---
 title: Effects of Vegetation on Vehicle-to-Vehicle Communication Performance at Intersections
 authors:
-- Hugues Tchouankem
+- admin
 - Tetiana Zinchenko
 - Henrik Schumacher
 - Lars Wolf

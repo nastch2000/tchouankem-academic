@@ -4,7 +4,7 @@ title: Experimental Evaluation of IEEE 802.11ax - Low Latency and High Reliabili
 authors:
 - Marie-Theres Suer
 - Prince Jose
-- Hugues Tchouankem
+- admin
 date: '2022-01-01'
 publishDate: '2024-01-18T10:47:51.437978Z'
 publication_types:
