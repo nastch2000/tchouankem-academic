@@ -6,7 +6,7 @@ authors:
 - Christoph Thein
 - admin
 - Lars Wolf
-date: '2019-00-01'
+date: '2019-10-01'
 publishDate: '2024-01-18T10:47:51.500905Z'
 publication_types:
 - article-journal
