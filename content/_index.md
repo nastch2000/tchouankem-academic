@@ -73,15 +73,21 @@ sections:
               Responsibilities include:
               * Research and development of dependable communication protocols & architectures for distribuded systems
               * Leading internal & external research projects
-              * Supervision of PhD/Master theses
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+              * Supervision of Doctoral/Master students
+        - title: Professor for Distributed Systems
+          company: University of Applied Sciences and Arts Dortmund
+          company_url: 'https://www.fh-dortmund.de/en/index.php'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Dortmund
+          date_start: '2022-12-01'
+          date_end: ''
+          description: |2-
+          * Digital Technology
+          * IoT Protocols
+          * Embedded Systems & Programmable logic
+          * Vehicular Communication (V2X)
+          * Software Engineering for Distributed Systems
+          * Various Labs
     design:
       columns: '2'
   - block: accomplishments
