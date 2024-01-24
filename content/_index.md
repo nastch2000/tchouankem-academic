@@ -80,7 +80,7 @@ sections:
         - title: Research Scientist
           company: Robert Bosch GmbH - Corporate Research and Development
           company_url: ''
-          company_logo: org-gc
+          company_logo: bosch-logo-de.png
           location: Hildesheim
           date_start: '2016-05-01'
           date_end: ''
