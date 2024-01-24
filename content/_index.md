@@ -82,12 +82,12 @@ sections:
           date_start: '2022-12-01'
           date_end: ''
           description: |2-
-          * Digital Technology
-          * IoT Protocols
-          * Embedded Systems & Programmable logic
-          * Vehicular Communication (V2X)
-          * Software Engineering for Distributed Systems
-          * Various Labs
+              * Digital Technology
+              * IoT Protocols
+              * Embedded Systems & Programmable logic
+              * Vehicular Communication (V2X)
+              * Software Engineering for Distributed Systems
+              * Various Labs
     design:
       columns: '2'
   - block: accomplishments
