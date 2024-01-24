@@ -77,7 +77,7 @@ sections:
                 * Software Engineering for Distributed Systems
                 * Various Labs
 
-        - title: Research Scientist
+        - title: Senior Research Scientist
           company: Robert Bosch GmbH - Corporate Research and Development
           company_url: ''
           company_logo: bosch-logotype
