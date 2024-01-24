@@ -62,6 +62,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Professor for Distributed Systems
+          company: University of Applied Sciences and Arts Dortmund
+          company_url: 'https://www.fh-dortmund.de/en/index.php'
+          company_logo: org-x
+          location: Dortmund
+          date_start: '2022-12-01'
+          date_end: ''
+          description: |2-
+                * Digital Technology
+                * IoT Protocols
+                * Embedded Systems & Programmable logic
+                * Vehicular Communication (V2X)
+                * Software Engineering for Distributed Systems
+                * Various Labs
+
         - title: Research Scientist
           company: Robert Bosch GmbH - Corporate Research and Development
           company_url: ''
@@ -71,23 +86,9 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-              * Research and development of dependable communication protocols & architectures for distribuded systems
-              * Leading internal & external research projects
-              * Supervision of Doctoral/Master students
-        - title: Professor for Distributed Systems
-          company: University of Applied Sciences and Arts Dortmund
-          company_url: 'https://www.fh-dortmund.de/en/index.php'
-          company_logo: org-x
-          location: Dortmund
-          date_start: '2022-12-01'
-          date_end: ''
-          description: |2-
-              * Digital Technology
-              * IoT Protocols
-              * Embedded Systems & Programmable logic
-              * Vehicular Communication (V2X)
-              * Software Engineering for Distributed Systems
-              * Various Labs
+                * Research and development of dependable communication protocols & architectures for distribuded systems
+                * Leading internal & external research projects
+                * Supervision of Doctoral/Master students
     design:
       columns: '2'
   - block: accomplishments
