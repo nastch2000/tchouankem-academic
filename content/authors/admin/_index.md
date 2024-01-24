@@ -24,8 +24,8 @@ role: Professor for Distributed Systems | Senior Researcher Mobile Communication
 organizations:
   - name: Dortmund University of Applied Sciences and Arts
     url: https://www.fh-dortmund.de/en/
-  - name: Corporate Research - Robert Bosch GmbH
-    url: https://www.bosch.com/research/
+  #- name: Corporate Research - Robert Bosch GmbH
+  #  url: https://www.bosch.com/research/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed systems, mobile communication (5G/6G), vehicular communication (V2X, C-V2X) and IoT

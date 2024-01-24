@@ -62,19 +62,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Scientist
+          company: Robert Bosch GmbH - Corporate Research and Development
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Hildesheim
+          date_start: '2016-05-01'
           date_end: ''
           description: |2-
               Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              * Research and development of dependable communication protocols & architectures for distribuded systems
+              * Leading internal & external research projects
+              * Supervision of PhD/Master theses
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
