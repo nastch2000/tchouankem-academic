@@ -76,6 +76,7 @@ sections:
                 * Vehicular Communication (V2X)
                 * Software Engineering for Distributed Systems
                 * Various Labs
+                
         - title: Research Scientist
           company: Robert Bosch GmbH - Corporate Research and Development
           company_url: ''
