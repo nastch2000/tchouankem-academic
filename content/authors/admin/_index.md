@@ -17,13 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor for Distributed Systems | Senior Research Scientist Mobile Communication
+role: Professor for Distributed Systems | Senior Researcher Mobile Communication
 
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Dortmund University of Applied Sciences and Arts
     url: https://www.fh-dortmund.de/en/
+  - name: Corporate Research - Robert Bosch GmbH
+    url: https://www.bosch.com/research/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed systems, mobile communication (5G/6G), vehicular communication (V2X, C-V2X) and IoT
@@ -96,18 +98,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/GeorgeCushen
+  #  label: Follow me on Twitter
+  #  display:
+  #    header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.de/citations?user=gY13QlQAAAAJ&hl=de
+  #- icon: github
+  #  icon_pack: fab
+  #  link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
