@@ -76,7 +76,6 @@ sections:
                 * Vehicular Communication (V2X)
                 * Software Engineering for Distributed Systems
                 * Various Labs
-
         - title: Research Scientist
           company: Robert Bosch GmbH - Corporate Research and Development
           company_url: ''
@@ -85,10 +84,10 @@ sections:
           date_start: '2016-05-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-                * Research and development of dependable communication protocols & architectures for distribuded systems
-                * Leading internal & external research projects
-                * Supervision of Doctoral/Master students
+                Responsibilities include:
+                  * Research and development of dependable communication protocols & architectures for distribuded systems
+                  * Leading internal & external research projects
+                  * Supervision of Doctoral/Master students
     design:
       columns: '2'
   - block: accomplishments
