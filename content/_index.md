@@ -89,6 +89,20 @@ sections:
                   * Research and development of dependable communication protocols & architectures for distribuded systems
                   * Leading internal & external research projects
                   * Supervision of Doctoral/Master students
+
+         - title: Research Scientist
+          company: Leibniz University Hannover - Institute of Communications Technology
+          company_url: 'https://www.ikt.uni-hannover.de/en'
+          company_logo: 
+          location: Hannover
+          date_start: '2009-11-01'
+          date_end: '2016-12-31'
+          description: |2-
+                Responsibilities include:
+                  * Research and development of dependable communication protocols for V2X-Applications
+                  * Supervision of lectures, exercises and labs
+                  * Leading and support of research projects
+                  * Supervision of Master/Bachelor students
     design:
       columns: '2'
   - block: accomplishments
